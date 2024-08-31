@@ -6,7 +6,7 @@ This project is a simple implementation of the War card game in Python.
 
 - Two players
 - Basic game mechanics
-- Support for "war" scenarios
+- Support for "war" scenarios where tied cards lead to additional rounds
 
 ## How to Run
 
